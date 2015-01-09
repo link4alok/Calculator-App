@@ -1,0 +1,59 @@
+body
+{
+    font-family: sans-serif;
+}
+
+h1
+{
+    margin-left: 50px;
+}
+
+#calculator
+{
+    width: 400px;
+    height: 385px;
+    margin: 50px auto;
+
+    background-color: black;
+}
+
+#clear{
+    margin-top: -95px;
+    margin-left: 301px;
+    height: 95px;
+    background-color: ##B45F04;
+    
+}
+
+#screen
+{
+    font-size: 30px;
+    
+    width: 299px;
+    height: 95px;
+    margin-bottom: 0;
+
+    color: black;
+    background-color: #F6D8CE;
+}
+
+.button
+{
+    font-size: 40px;
+
+    float: left;
+
+    width: 98px;
+    height: 70.8px;
+    margin: 1px;
+
+    text-align: center;
+
+    background-color: grey;
+}
+
+
+.op
+{
+    background-color: orange;
+}
